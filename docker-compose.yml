@@ -1,0 +1,6 @@
+﻿services:
+  correioelegante:
+    image: correioelegante
+    build:
+      context: .
+      dockerfile: CorreioElegante/Dockerfile
