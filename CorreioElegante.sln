@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorreioElegante", "CorreioElegante\CorreioElegante.csproj", "{C372D152-8A1D-42F0-B47C-24045C7E50F3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{38025ECC-29F2-49A1-B16B-F4FDDEF320B3}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C372D152-8A1D-42F0-B47C-24045C7E50F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C372D152-8A1D-42F0-B47C-24045C7E50F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C372D152-8A1D-42F0-B47C-24045C7E50F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C372D152-8A1D-42F0-B47C-24045C7E50F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
